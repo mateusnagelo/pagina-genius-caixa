@@ -83,14 +83,12 @@ body {
     height: 380px;
 }
 
-
 .text-informativo {
     line-height: 1, 5rem;
     letter-spacing: .03rem;
     font-size: 1.2rem;
     font-family: sans-serif, serif;
-    /* color: #92a3ab; */
-    color: whitesmoke;
+    color: #92a3ab;
 }
 
 .text-informativo2 {
@@ -98,8 +96,7 @@ body {
     letter-spacing: .03rem;
     font-size: 1.2rem;
     font-family: sans-serif, serif;
-    /* color: #92a3ab; */
-    color: whitesmoke;
+    color: #92a3ab;
 }
 
 .text-informativo3 {
@@ -107,12 +104,5 @@ body {
     letter-spacing: .03rem;
     font-size: 1.2rem;
     font-family: sans-serif, serif;
-    /* color: #92a3ab; */
-    color: whitesmoke;
-}
-.hero-body {
-    background-color: #3273dc;
-}
-.title.titled.is-1.mb-6 {
-    color: white;
+    color: #92a3ab;
 }
